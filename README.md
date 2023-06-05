@@ -36,7 +36,7 @@ This repository contains an implementation of the Denoising Diffusion Probabilis
 
 The code enables the generation of images with specific contexts such as side-facing characters, human characters, food, spells, and more.
 
-### Example 1: Generate images with predefined context
+#### Example 1: Generate images with predefined context
 
 ```python
 import torch
@@ -63,7 +63,7 @@ show_images(samples)
 ```
 
 
-### Example 2: Generate images with a mixed context
+#### Example 2: Generate images with a mixed context
 
 ```python
 import torch
