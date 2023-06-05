@@ -7,6 +7,7 @@ Table of contents
 
 <!--ts-->
    * [Lab 1](## Lab 1: Image Denoising with Stable Diffusion)
+<!--te-->
 
 ## Lab 1: Image Denoising with Stable Diffusion
 
