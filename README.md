@@ -2,7 +2,7 @@
 
 This repository is inspired by the course "How Diffusion Models Work", taught by Sharon Zhou, CEO of Lamini. The course provides a comprehensive understanding of the technical details behind diffusion models, which power Midjourney, DALL·E, and Stable Diffusion. In addition, the course includes practical examples and code to generate video game sprites in a Jupyter notebook: https://lnkd.in/gBqUKuwV.
 
-## (Lab 1) Image Denoising with Stable Diffusion
+## Lab 1: Image Denoising with Stable Diffusion
 
 The core of the algorithm is based on a deep learning model called ContextUnet, which is capable of predicting and subtracting noise from images to achieve high-quality denoising results.
 
